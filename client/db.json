@@ -1,0 +1,14 @@
+{
+    "patient": [
+
+    ],
+    "doctor": [
+      {
+        "name": "sarun",
+        "email": "sdd@dd",
+        "phone": "141234333333",
+        "department": "General Surgery",
+        "id": 3
+      }
+    ]
+  }
